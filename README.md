@@ -1,4 +1,4 @@
-# Hello, This is Navya 👩🏼‍💻
+# Hello, This side Navya 👩🏼‍💻
 
 ## Professional Summary
 I am a Computer Science student currently pursuing B.Tech in CSE. I am interested in data analytics, machine learning, and software development. I enjoy learning new technologies and building strong technical foundations.
