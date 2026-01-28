@@ -23,7 +23,6 @@ I am a Computer Science student currently pursuing B.Tech in CSE. I am intereste
 - Full Stack Development  
 
 ## Interests
-- Travelling and exploring new places  
 - Endurance sports and staying active  
 - Learning about new technologies  
 - Keeping up with world politics and global trends  
